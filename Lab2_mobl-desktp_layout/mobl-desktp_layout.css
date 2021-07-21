@@ -1,0 +1,41 @@
+
+.first
+{
+	height:250px;
+	background-color:#0680c7;
+	margin-left: 10px;
+	margin-top: 10px;
+
+}
+.second
+{
+	background-color: #ffa500;
+	height:250px;
+	margin-top: 10px;
+
+
+}
+.third
+{
+	background-color: #e60000;
+	height:250px;
+	margin-top: 10px;
+}
+.last
+{
+	background-color: green;
+	margin-left:10em;
+	height: 250px;
+}
+.v1
+{
+	background-color: #0680c7;
+}
+.v2
+{
+	background-color:  #e60000;
+}
+.v3
+{
+	background-color:#ffa500;
+}
